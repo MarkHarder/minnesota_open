@@ -3,6 +3,20 @@ body {
   color: white;
 }
 
+#logo-container {
+  margin-bottom: 10px;
+}
+
+#yonex-logo {
+  display: table;
+  margin: 0 auto;
+  margin-top: 10px;
+}
+
+#metlife-logo {
+  float: right;
+}
+
 .jumbotron {
   background-image: url("../res/background.jpg");
   background-color: #ffffff;
