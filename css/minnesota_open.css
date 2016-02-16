@@ -2,3 +2,26 @@ body {
   background-color: black;
   color: white;
 }
+
+.jumbotron {
+  background-image: url("../res/background.jpg");
+  background-color: #ffffff;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+#jumbotron-content {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-left: 20px;
+  margin-right: -20px;
+}
+
+#jumbotron-button {
+  margin-top: 10px;
+}
+
+#player-2 {
+  margin-left: -40px;
+}
