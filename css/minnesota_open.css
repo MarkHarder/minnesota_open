@@ -39,3 +39,17 @@ body {
 #player-2 {
   margin-left: -40px;
 }
+
+.info-container {
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+th, td {
+  text-align: center;
+}
+
+.player-name {
+  text-align: left;
+  width: 80%;
+}
