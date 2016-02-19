@@ -1,5 +1,5 @@
 body {
-  background-color: black;
+  background-color: #0A0A0A;
   color: white;
 }
 
@@ -15,6 +15,26 @@ body {
 
 #metlife-logo {
   float: right;
+}
+
+.btn-orange {
+  background-color: #EDA02D;
+  border-color: #AD7411;
+  color: black;
+}
+
+.btn-orange:hover,
+.btn-orange:focus,
+.btn-orange:active,
+.btn-orange.active,
+.open .dropdown-toggle.btn-orange {
+  background-color: #B3772E;
+  border-color: #AD7411;
+  color: white;
+}
+
+thead {
+  background-color: #5c0099;
 }
 
 .jumbotron {
